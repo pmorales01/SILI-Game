@@ -1,0 +1,12 @@
+---
+:id: 79419049
+:submitters:
+- :name: Pedro Morales
+  :email: pedrom2@csu.fullerton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-15 03:00:25.375054000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-14 20:00:25.375054000 Z
+:status: processed
+:score: 95.0
